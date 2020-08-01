@@ -1,0 +1,17 @@
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.6em;
+}
+
+body {
+  color: #414141;
+  background-color: #EEEEEE;
+  font-size: 18px;
+}
+
+ol {
+  list-style-type: lower-roman;
+}
